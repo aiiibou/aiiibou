@@ -1,6 +1,1 @@
-I mod for games I like 👍 
-
-<!---
-aiiibou/aiiibou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![pookie](https://github.com/aiiibou/aiiibou/assets/163105990/05b27e0f-7dc0-4b98-a13d-e7bd9fcd173b)
